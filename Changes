@@ -1,4 +1,9 @@
 Revision history for Perl extension URI::Escape::JavaScript
 
+  0.02  Thu Jan 25 11:11:10 2007
+        - added js_escape() and js_unescape() functions
+          (suggested by Mark Donovan).
+        - Pod fix.
+
   0.01  Fri Jan 19 15:43:12 2007
         - original version
